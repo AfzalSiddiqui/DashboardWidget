@@ -1,0 +1,113 @@
+[
+    {
+        "size" : "mini",
+        "id" : 1,
+        "content": {
+            "headerText": "Jet Black",
+            "detailText" : "This widget contains jet black color",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#343434"
+        }
+    },
+    {
+        "size" : "square",
+        "id" : 2,
+        "content": {
+            "headerText": "Red",
+            "detailText" : "This widget contains red color",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#FF0000"
+        }
+    },
+
+    {
+        "size" : "mini",
+        "id" : 3,
+        "content": {
+            "headerText": "Dark Blue",
+            "detailText" : "This widget contains dark blue",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#00008B"
+        }
+    },
+    {
+        "size" : "large_square",
+        "id" : 4,
+        "content": {
+            "headerText": "Green",
+            "detailText" : "This widget contains green color",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#008000"
+        }
+    },
+    {
+        "size" : "large_square",
+        "id" : 5,
+        "content": {
+            "headerText": "Red",
+            "detailText" : "This widget contains red color",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#FF0000"
+        }
+    },
+    {
+        "size" : "large",
+        "id" : 6,
+        "content": {
+            "headerText": "Yellow",
+            "detailText" : "This widget contains yellow color",
+            "headerTextColor": "#000000",
+            "detailTextColor": "#000000",
+            "backgroundColor": "#FFFF00"
+        }
+    },
+    {
+        "size" : "large",
+        "id" : 7,
+        "content": {
+            "headerText": "Dark Red",
+            "detailText" : "This widget contains dark red color",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#8B0000"
+        }
+    },
+    {
+        "size" : "square",
+        "id" : 8,
+        "content": {
+            "headerText": "Pink",
+            "detailText" : "This widget contains pink color",
+            "headerTextColor": "#000000",
+            "detailTextColor": "#000000",
+            "backgroundColor": "#F4C2C2"
+        }
+    },
+    {
+        "size" : "square",
+        "id" : 9,
+        "content": {
+            "headerText": "Green",
+            "detailText" : "This widget contains green color",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#008000"
+        }
+    },
+    {
+        "size" : "square",
+        "id" : 10,
+        "content": {
+            "headerText": "Light Blue",
+            "detailText" : "This widget contains light blue",
+            "headerTextColor": "#FFFFFF",
+            "detailTextColor": "#FFFFFF",
+            "backgroundColor": "#ADD8E6"
+        }
+    }
+]
